@@ -3,11 +3,6 @@
   "color_scheme": "Packages/RailsCasts Colour Scheme/RailsCastsColorScheme.tmTheme",
   "theme": "Soda Light 3.sublime-theme",
 
-  // Font
-  "font_face": "Menlo",
-  "font_size": 13,
-  "font_options": ["no_round"],
-
   // Cursor style - no blinking and slightly wider than default
   "caret_style": "solid",
   "wide_caret": true,
